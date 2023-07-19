@@ -17,4 +17,4 @@ sep ve end parametreleriyle çıktı formatlama
 Stringleri bölme ve ayırma işlemleri
 split() fonksiyonunun kullanımı
 
-Not: Bu repo sadece Python dilinin temel özelliklerini anlamak ve pratik yapmak amacıyla oluşturulmuştur. Daha karmaşık projeler için ayrı bir çalışma yapmanız gerekebilir.
+Not: Bu repo sadece Python dilinin temel özelliklerini anlamak ve pratik yapmak amacıyla oluşturulmuştur.
