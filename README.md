@@ -1,4 +1,4 @@
-## Basit Python işlemleri
+# Basit Python işlemleri
 
 Bu dosyada, Python dilinde çeşitli string işlemleri, değişken kullanımı ve çıktı formatlama örnekleri yer almaktadır. Örneklerde aşağıdaki konular ele alınmıştır:
 
