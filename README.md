@@ -16,8 +16,5 @@ sep ve end parametreleriyle çıktı formatlama
 ## Metin manipülasyonu:
 Stringleri bölme ve ayırma işlemleri
 split() fonksiyonunun kullanımı
-## Repo hakkında:
-Bu readme dosyası, repo hakkında genel bilgileri içermektedir.
-Alıştırmaların nasıl yapıldığını ve sonuçlarını incelemek için main.py dosyasını inceleyebilirsiniz.
 
 Not: Bu repo sadece Python dilinin temel özelliklerini anlamak ve pratik yapmak amacıyla oluşturulmuştur. Daha karmaşık projeler için ayrı bir çalışma yapmanız gerekebilir.
